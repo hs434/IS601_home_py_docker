@@ -1,4 +1,4 @@
 class Greeter:
     def __init__(self):
-        self.message = 'Hello world!'
+        self.message = 'Welcome to this interesting world!'
         print(self.message)
