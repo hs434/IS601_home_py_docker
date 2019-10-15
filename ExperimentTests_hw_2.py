@@ -1,7 +1,7 @@
 __author__ = 'k0emt'
 
 import unittest
-from Experiment import Greeter
+from Experiment_hw_1 import Greeter
 
 
 class MyTestCase(unittest.TestCase):
